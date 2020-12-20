@@ -3,18 +3,18 @@
 # # # # # # # #
 
 # Basic
-name:               "carpedm43"
-description:        "carpedm43's blog"
+name:               "tkwk306"
+description:        "tkwk306's blog"
 
 # URL
-url:                "http://carpedm43.github.io"
+url:                "http://yongjinshin306.github.io"
 baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:title.html
 
 copyright:
   year:             2019
-  name:             carpedm43
+  name:             tkwk306
 
 markdown: kramdown
 
@@ -29,10 +29,8 @@ nav:
     href:           "/about"
   - name:           "Tags"
     href:           "/tags"
-  - name:           "Notion Blog"
-    href:           "https://www.notion.so/hyeonbae/Notion-Blog-526372a9158943ce8cbb9bfe7957baed"
   - name:           "Github"
-    href:           "https://github.com/carpedm43"
+    href:           "https://github.com/YongjinShin306"
 
 # Sass
 sass:
