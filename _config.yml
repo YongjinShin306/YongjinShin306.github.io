@@ -29,6 +29,8 @@ nav:
     href:           "/about"
   - name:           "Tags"
     href:           "/tags"
+  - name:           "Notion Blog"
+    href:           "https://github.com/YongjinShin306"
   - name:           "Github"
     href:           "https://github.com/YongjinShin306"
 
